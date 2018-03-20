@@ -12,6 +12,10 @@ I'd be happy to hear about your instrument!
 ## Versions
 (placeholder)
 
+## Reeds testing
+Mac: ffmpeg -f avfoundation -i ":0" -filter_complex "showcqt" -c:v rawvideo -c:a pcm_s16le -pix_fmt yuv422p -f matroska - | mpv -
+Linux: ffmpeg -f alsa -i hw:0 -filter_complex "showcqt" -c:v rawvideo -c:a pcm_s16le -pix_fmt yuv422p -f matroska - | mpv -
+
 ## More about reversed reed pipes (German only)
 * Ernst Zacharias: “Die dynamische Orgel”. Instrumentenbau-Zeitschrift 1999, Heft 7-8, S. 26
 * Ernst Zacharias: “Die dynamische Orgel”. Ars Organi 50, 2002, H. 1, S. 19-21
