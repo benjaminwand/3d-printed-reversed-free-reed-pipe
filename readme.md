@@ -10,7 +10,9 @@ The point of ‘reed tester’ is having it easier to figure out which reed you 
 I'd be happy to hear about your instrument!
 
 ## Versions
-(placeholder)
+0.1 reed somewhere in the middle of the tube <br>
+0.2 reed at the end of the tube, blowing directly into the tube <br>
+0.3 reed at the end of the tube, traverse-flute-like <br>
 
 ## Reeds testing
 Mac: ffmpeg -f avfoundation -i ":0" -filter_complex "showcqt" -c:v rawvideo -c:a pcm_s16le -pix_fmt yuv422p -f matroska - | mpv -
@@ -28,3 +30,4 @@ Linux: ffmpeg -f alsa -i hw:0 -filter_complex "showcqt" -c:v rawvideo -c:a pcm_s
 * http://vimeo.com/39074251 talking about reed reed stops after 7:50 wird in diesem Video auf die Zacharias-Zungenstimmen eingegangen
 * http://www.friedenskirche-eckenhaid.de/media/CD-Downloads/Friedenspiel_pour_le_temps.mp3 
 * https://www.youtube.com/watch?v=3jkmdJ6xWm4 Ernst Zacharias with straight inverted free reed pipe, recorded 2017
+* my first attempt with 0.1 https://www.youtube.com/watch?v=mxvTzLA2iDw
