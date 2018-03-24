@@ -7,6 +7,8 @@ Please start by adding the desired measurements into the spreadsheet. Then expor
 
 The point of ‘reed tester’ is having it easier to figure out which reed you hold in your hands, because it is a good idea using a reed a little bit lower (1-3 semitones) than the resonator. You probably only need one, ore one per person (hygienic reasons).
 
+[There are flue pipes as well.](https://github.com/benjaminwand/3d-printed-labial-pipe)
+
 I'd be happy to hear about your instrument!
 
 ## Versions
