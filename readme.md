@@ -1,11 +1,11 @@
 # 3d-printed reversed free reed pipe
 
 ## General
-This is a collection of FreeCAD files that will help you to 3D-print a part of a new type of organ pipe (the mechanism was patented in 1993 by Ernst Zacharias, Hohner), to be used with two pieces of tube. 
+This is a collection of FreeCAD files that will help you to 3D-print a part of a new type of organ pipe (the mechanism was patented in 1993 by Ernst Zacharias, Hohner), to be used with one or two piece(s) of tube. 
 
 Please start by adding the desired measurements into the spreadsheet. Then export the upper and lower part separately for printing.
 
-The point of ‘reed tester’ is having it easier to figure out which reed you hold in your hands, because it is a good idea using a reed a little bit lower (1-3 semitones) than the resonator. You probably only need one, ore one per person (hygienic reasons).
+The point of ‘pitch tester’ is having it easier to figure out which reed you hold in your hands. It works best using a reed a little bit lower (1-3 semitones) than the resonator. You probably only need one, or one per person (hygienic reasons).
 
 [There are flue pipes as well.](https://github.com/benjaminwand/3d-printed-labial-pipe)
 
@@ -32,7 +32,7 @@ Linux: ffmpeg -f alsa -i hw:0 -filter_complex "showcqt" -c:v rawvideo -c:a pcm_s
 * Mathias Jung: “”Die Zacharias- Zunge in Eckenhaid. Im Internet eingestellt unter: http://www.orgelbau-rohlf.de/themen/pdf/Zachariaszunge.pdf
 
 ## Multimedia
-* http://vimeo.com/39074251 talking about reed reed stops after 7:50 wird in diesem Video auf die Zacharias-Zungenstimmen eingegangen
+* http://vimeo.com/39074251 talking about free reed stops after 7:50
 * http://www.friedenskirche-eckenhaid.de/media/CD-Downloads/Friedenspiel_pour_le_temps.mp3 
 * https://www.youtube.com/watch?v=3jkmdJ6xWm4 Ernst Zacharias with straight inverted free reed pipe, recorded 2017
 * my first attempt with 0.1 https://www.youtube.com/watch?v=mxvTzLA2iDw
