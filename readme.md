@@ -11,6 +11,9 @@ The point of ‘reed tester’ is having it easier to figure out which reed you 
 
 I'd be happy to hear about your instrument!
 
+Licensed under CC-BY <br>
+https://creativecommons.org/licenses/by/4.0/legalcode
+
 ## Versions
 0.1 reed somewhere in the middle of the tube <br>
 0.2 reed at the end of the tube, blowing directly into the tube <br>
